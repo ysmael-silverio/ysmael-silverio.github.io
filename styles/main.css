@@ -50,3 +50,14 @@ p {
   font-size: 15px;
   color: #fff
 }
+#identity-values {
+  font-size: 50px;
+}
+
+#learning-plan {
+  font-size: 50px;
+}
+
+.core-photos {
+  width: 500px;
+}
