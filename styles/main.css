@@ -67,7 +67,8 @@ p {
 
 .core-photos {
   width: 50%;
-  height:auto
+  height:auto;
+  padding: 1em;
 }
 .plan-content {
   text-align: center;
@@ -99,4 +100,5 @@ ul {
 .margin-photos {
   width: 50%;
   height:auto;
+  padding: 1em;
 }
