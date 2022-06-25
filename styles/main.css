@@ -42,7 +42,8 @@ a:hover {
 }
 
 .cat {
-  width: 1080px;
+  width: 50%;
+  height:auto;
   border-radius: 12%;
   padding: 2em;
 }
@@ -65,12 +66,13 @@ p {
 }
 
 .core-photos {
-  width: 500px;
+  width: 50%;
+  height:auto
 }
 .plan-content {
   text-align: center;
-  margin: 1em 1em 1em 1em;
-  padding: 1em 1em 1em 1em;
+  margin: 1em;
+  padding: 1em;
   background-color: #9966cc;
 }
 
@@ -92,4 +94,9 @@ ul {
 .answers {
   text-align: center;
   font-size: 18px;
+}
+
+.margin-photos {
+  width: 50%;
+  height:auto;
 }
